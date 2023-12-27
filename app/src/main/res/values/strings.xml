@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android23</string>
+    <string name="tag_type_prompt">Select tag type:</string>
+    <string name="tag_value_hint">Enter tag value:</string>
+</resources>
